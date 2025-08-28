@@ -1,4 +1,4 @@
-# HR Employee Attrition Dashboard – Google Looker Studio
+# HR Employee Attrition Dashboard
 
 Dashboard Link: https://lookerstudio.google.com/reporting/f193c501-d56b-41e1-8c03-4a6c7df4ed82/page/p_gc4ab9skvd
 
